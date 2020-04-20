@@ -6,4 +6,3 @@
 - git tag
 - git reset
 - git log
-- git push
